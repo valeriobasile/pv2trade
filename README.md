@@ -6,4 +6,4 @@ The system consists of two main components:
 - PV2Trade editor: a Web-based editor of trading strategies
 - PV2Trade backtest: a trading backtesting service accessible through website or a HTTP API
 
-cacca
+Based on [http://gbeced.github.io/pyalgotrade/ pyAlgoTrade]

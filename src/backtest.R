@@ -28,3 +28,4 @@ returns <- ROC(series$close) * signal
 png('chart.png')
 charts.PerformanceSummary(returns)
 dev.off()
+
